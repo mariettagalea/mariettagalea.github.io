@@ -74,3 +74,13 @@
 							</section>
 
 					</section>
+
+
+Sections:
+
+Short bio - mention velocity group
+Research interests - programming language semantics, runtime monitoring, preorders
+Published work
+Theses - undergrad projects
+Committees - coordination25 PC member, gandalf25 organisation committee, sefm26 publicity chair
+Teaching
